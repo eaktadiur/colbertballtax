@@ -1,0 +1,139 @@
+[30-Sep-2013 10:27:19] PHP Fatal error:  Call to a member function checkPermission() on a non-object in /home2/ankouny/public_html/colbertballtax/admin/admin_users_add.php on line 9
+[30-Sep-2013 10:27:22] PHP Fatal error:  Call to a member function checkPermission() on a non-object in /home2/ankouny/public_html/colbertballtax/admin/admin_users_add.php on line 9
+[30-Sep-2013 10:27:23] PHP Fatal error:  Call to a member function checkPermission() on a non-object in /home2/ankouny/public_html/colbertballtax/admin/admin_users_add.php on line 9
+[30-Sep-2013 11:29:26] PHP Fatal error:  Call to undefined function  fetchleaddetails() in /home2/ankouny/public_html/colbertballtax/admin/lead_details.php on line 13
+[01-Oct-2013 14:22:52] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/ankouny/public_html/colbertballtax/admin/models/class.webform.edit.php on line 111
+[01-Oct-2013 14:27:44] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/ankouny/public_html/colbertballtax/admin/models/funcs.php on line 1213
+[01-Oct-2013 14:29:41] PHP Warning:  date() expects parameter 2 to be long, string given in /home2/ankouny/public_html/colbertballtax/admin/lead_details.php on line 109
+[01-Oct-2013 14:30:11] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/ankouny/public_html/colbertballtax/admin/models/funcs.php on line 1213
+[01-Oct-2013 14:31:05] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/ankouny/public_html/colbertballtax/admin/models/class.webform.edit.php on line 111
+[01-Oct-2013 14:33:07] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/ankouny/public_html/colbertballtax/admin/models/class.webform.edit.php on line 111
+[01-Oct-2013 14:34:02] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/ankouny/public_html/colbertballtax/admin/models/class.webform.edit.php on line 111
+[03-Oct-2013 11:12:19] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/leads.php on line 64
+[03-Oct-2013 11:43:01] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/leads.php on line 64
+[03-Oct-2013 11:44:07] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/leads.php on line 64
+[03-Oct-2013 11:44:10] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/leads.php on line 64
+[07-Oct-2013 14:44:53] PHP Warning:  move_uploaded_file(/home2/colbertb/public_html/colbertballtax/admin/upload/251181320Book1.xlsx) [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in /home2/colbertb/public_html/app/admin/fran_edit.php on line 99
+[07-Oct-2013 14:44:53] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/var/tmp/php0DWOR2' to '/home2/colbertb/public_html/colbertballtax/admin/upload/251181320Book1.xlsx' in /home2/colbertb/public_html/app/admin/fran_edit.php on line 99
+[07-Oct-2013 15:26:11] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1757
+[07-Oct-2013 15:26:26] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1757
+[07-Oct-2013 15:33:18] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1757
+[07-Oct-2013 16:48:21] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1757
+[07-Oct-2013 17:57:29] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1757
+[07-Oct-2013 17:57:30] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1757
+[10-Oct-2013 12:48:17] PHP Warning:  date() expects parameter 2 to be long, string given in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 154
+[10-Oct-2013 12:52:06] PHP Warning:  date() expects parameter 2 to be long, string given in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 154
+[10-Oct-2013 14:25:13] PHP Warning:  date() expects parameter 2 to be long, string given in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 154
+[10-Oct-2013 14:28:05] PHP Warning:  date() expects parameter 2 to be long, string given in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 154
+[10-Oct-2013 14:29:05] PHP Warning:  date() expects parameter 2 to be long, string given in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 154
+[13-Oct-2013 10:16:22] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 179
+[14-Oct-2013 11:23:15] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[14-Oct-2013 11:25:49] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[14-Oct-2013 11:25:50] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[14-Oct-2013 11:25:56] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[14-Oct-2013 11:26:14] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[14-Oct-2013 11:26:32] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[14-Oct-2013 11:26:34] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[14-Oct-2013 11:27:10] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[14-Oct-2013 11:27:10] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[14-Oct-2013 14:30:28] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/leads.php on line 64
+[14-Oct-2013 14:34:01] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/leads.php on line 64
+[14-Oct-2013 14:55:36] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/leads.php on line 64
+[14-Oct-2013 15:22:29] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/leads.php on line 64
+[14-Oct-2013 15:23:32] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/leads.php on line 64
+[15-Oct-2013 14:22:09] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 179
+[15-Oct-2013 14:23:43] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 14:23:53] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 14:24:16] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 14:24:25] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 14:58:14] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 14:58:41] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 14:58:43] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 14:59:10] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 14:59:15] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 14:59:17] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:00:12] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:00:21] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:10:04] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 179
+[15-Oct-2013 15:11:37] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:11:50] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:12:41] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:12:42] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:12:58] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:13:08] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:14:09] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:14:20] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:14:28] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:14:40] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:14:51] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:14:52] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:18:11] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:18:19] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:18:41] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:18:42] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:19:03] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[15-Oct-2013 15:21:03] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[16-Oct-2013 12:00:19] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[16-Oct-2013 12:00:28] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[16-Oct-2013 12:10:39] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[16-Oct-2013 12:10:59] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[16-Oct-2013 12:11:06] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[16-Oct-2013 16:16:17] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 179
+[16-Oct-2013 20:45:46] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/models/class.user.php on line 88
+[17-Oct-2013 10:06:52] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1179
+[17-Oct-2013 10:07:32] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1179
+[17-Oct-2013 10:07:37] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1179
+[17-Oct-2013 10:08:12] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1179
+[17-Oct-2013 10:08:53] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home2/colbertb/public_html/app/admin/models/funcs.php on line 1179
+[23-Oct-2013 12:52:22] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[25-Oct-2013 14:12:00] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[25-Oct-2013 16:22:02] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[25-Oct-2013 16:22:52] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[25-Oct-2013 16:24:09] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[28-Oct-2013 01:27:21] PHP Fatal error:  Call to undefined function  exportlead() in /home2/colbertb/public_html/app/admin/export-xls.php on line 34
+[28-Oct-2013 01:27:32] PHP Fatal error:  Call to undefined function  exportlead() in /home2/colbertb/public_html/app/admin/export-xls.php on line 34
+[28-Oct-2013 15:49:14] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[29-Oct-2013 11:50:14] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 08:44:05] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 08:47:46] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 10:35:09] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 13:19:34] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 13:19:44] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 13:20:06] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 13:20:23] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 13:20:47] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 13:21:21] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 13:22:08] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 13:22:19] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 13:22:29] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 14:59:48] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 15:40:18] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[11-Nov-2013 15:56:03] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[12-Nov-2013 14:29:56] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 08:44:11] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 08:53:43] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 08:53:56] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 08:54:18] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 08:54:42] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 10:07:52] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 10:30:22] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 10:36:36] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:09:09] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:10:27] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:12:35] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:25:21] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:27:10] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:29:30] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:44:53] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:49:09] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:49:40] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:53:07] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 11:55:23] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 12:01:41] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 12:11:11] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 12:13:18] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 12:14:24] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 12:18:58] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 14:51:00] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[13-Nov-2013 15:37:18] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
+[14-Nov-2013 08:38:29] PHP Warning:  Invalid argument supplied for foreach() in /home2/colbertb/public_html/app/admin/franchisee_details.php on line 215
